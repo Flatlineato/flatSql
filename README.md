@@ -1,2 +1,2 @@
 # flatSql
-Simple Sql Client for dev
+Simple Sql Client for dev test
